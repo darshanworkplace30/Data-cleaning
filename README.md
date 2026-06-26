@@ -49,8 +49,8 @@ Added data type checks to ensure:
 - **Time spent**: less than hour (manual + formula approach)
 
 ## Files in This Project
-- `cafe_sales_raw.xlsx` - Original dataset from Kaggle (unmodified)
-- `cafe_sales_cleaned.xlsx` - Cleaned dataset ready for analysis
+- [Original dataset from Kaggle] 
+- [Cleaned Cafe Sales Dataset](Cleaned%20cafe%20sales.xlsx)
 - `data_cleaning_log.xlsx` - Documentation of all changes made
 
 ## Tools Used
