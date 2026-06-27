@@ -26,7 +26,9 @@ I created a formula to handle multiple types of missing data:
 ```
 =IF(OR( A1="", A1="Unknown", A1="ERROR"), "Not Available", A1)
 ```
+```
 =IFERROR(D1*C1,0)
+```
 
 This consolidated all missing value types into a single "Not Available" entry for consistency.
 
@@ -73,7 +75,7 @@ The cleaned dataset is now ready for:
 
 ## How to Use This Project
 1. Download the raw dataset from the project files
-2. Open ( to see the before/after
+2. [Open to see the before/after](Cleaned%20cafe%20sales.xlsx) 
 3. Review `data_cleaning_log.xlsx` to understand each cleaning step
 4. Adapt the IF(OR()) formula for your own datasets
 
