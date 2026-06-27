@@ -1,3 +1,8 @@
+<img width="796" height="491" alt="Screenshot 2026-06-26 201316" src="https://github.com/user-attachments/assets/0b54a532-c013-4460-9266-3c198e89f93b" />
+<img width="1128" height="503" alt="Screenshot 2026-06-26 201128" src="https://github.com/user-attachments/assets/b553aaaf-1c4d-4094-b81c-d00183d6c58a" />
+<img width="1052" height="375" alt="Screenshot 2026-06-26 204245" src="https://github.com/user-attachments/assets/b1574706-1d07-4fe2-a17d-93fa713c4a5e" />
+<img width="948" height="472" alt="Screenshot 2026-06-26 202822" src="https://github.com/user-attachments/assets/f10da7d4-0009-413e-b1fb-d8c08b48f3d8" />
+
 # Cafe Sales Data Cleaning Project
 
 ## Overview
