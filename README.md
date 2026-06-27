@@ -49,7 +49,7 @@ Added data type checks to ensure:
 - **Time spent**: less than hour (manual + formula approach)
 
 ## Files in This Project
-- [Original dataset from Kaggle] 
+- [Original dataset from Kaggle](dirty_cafe_sales.csv) 
 - [Cleaned Cafe Sales Dataset](Cleaned%20cafe%20sales.xlsx)
 - `data_cleaning_log.xlsx` - Documentation of all changes made
 
@@ -73,7 +73,7 @@ The cleaned dataset is now ready for:
 
 ## How to Use This Project
 1. Download the raw dataset from the project files
-2. Open `cafe_sales_cleaned.xlsx` to see the before/after
+2. Open ( to see the before/after
 3. Review `data_cleaning_log.xlsx` to understand each cleaning step
 4. Adapt the IF(OR()) formula for your own datasets
 
