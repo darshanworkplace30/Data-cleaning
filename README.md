@@ -53,7 +53,7 @@ Added data type checks to ensure:
 ## Files in This Project
 - [Original dataset from Kaggle](dirty_cafe_sales.csv) 
 - [Cleaned Cafe Sales Dataset](Cleaned%20cafe%20sales.xlsx)
-- `data_cleaning_log.xlsx` - Documentation of all changes made
+- [Documentation of all changes made](Data%20cleaning%20process.xlsx)
 
 ## Tools Used
 - Microsoft Excel
@@ -74,9 +74,9 @@ The cleaned dataset is now ready for:
 - Dashboard creation for stakeholder reporting
 
 ## How to Use This Project
-1. Download the raw dataset from the project files
+1. [Download the raw dataset from the project files](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data)
 2. [Open to see the before/after](Cleaned%20cafe%20sales.xlsx) 
-3. Review `data_cleaning_log.xlsx` to understand each cleaning step
+3. [Revie to understand each cleaning step](Data%20cleaning%20process.xlsx)
 4. Adapt the IF(OR()) formula for your own datasets
 
 ---
